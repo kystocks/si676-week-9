@@ -1,0 +1,109 @@
+{
+  "@context": "http://jajohnst.si676.si.umich.edu/omeka-s/api-context",
+  "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/items/146",
+  "@type": [
+    "o:Item",
+    "dctype:Image"
+  ],
+  "o:id": 146,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/resource_classes/26",
+    "o:id": 26
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "Carnegie Library, Cordele, Georgia",
+  "thumbnail_display_urls": {
+    "large": "http://jajohnst.si676.si.umich.edu/omeka-s/files/large/169d72820a8f64cf9179453914abe91b96850fc3.jpg",
+    "medium": "http://jajohnst.si676.si.umich.edu/omeka-s/files/medium/169d72820a8f64cf9179453914abe91b96850fc3.jpg",
+    "square": "http://jajohnst.si676.si.umich.edu/omeka-s/files/square/169d72820a8f64cf9179453914abe91b96850fc3.jpg"
+  },
+  "o:created": {
+    "@value": "2025-10-30T21:31:50+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-10-30T21:42:52+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/157",
+    "o:id": 157
+  },
+  "o:media": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/157",
+      "o:id": 157
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/item_sets/194",
+      "o:id": 194
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/sites/1",
+      "o:id": 1
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Carnegie Library, Cordele, Georgia",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "91787443"
+    },
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "https://www.loc.gov/item/91787443/"
+    }
+  ],
+  "dcterms:created": [
+    {
+      "type": "literal",
+      "property_id": 20,
+      "property_label": "Date Created",
+      "is_public": true,
+      "@value": "1916-01-01"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Image"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "No known restrictions on publication."
+    }
+  ]
+}

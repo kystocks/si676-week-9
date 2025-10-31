@@ -1,0 +1,109 @@
+{
+  "@context": "http://jajohnst.si676.si.umich.edu/omeka-s/api-context",
+  "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/items/136",
+  "@type": [
+    "o:Item",
+    "dctype:Image"
+  ],
+  "o:id": 136,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/resource_classes/26",
+    "o:id": 26
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "[Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute]",
+  "thumbnail_display_urls": {
+    "large": "http://jajohnst.si676.si.umich.edu/omeka-s/files/large/f3b4f9eab4646659628353f2c7c5730d87831e86.jpg",
+    "medium": "http://jajohnst.si676.si.umich.edu/omeka-s/files/medium/f3b4f9eab4646659628353f2c7c5730d87831e86.jpg",
+    "square": "http://jajohnst.si676.si.umich.edu/omeka-s/files/square/f3b4f9eab4646659628353f2c7c5730d87831e86.jpg"
+  },
+  "o:created": {
+    "@value": "2025-10-30T21:31:50+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-10-30T21:42:52+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/145",
+    "o:id": 145
+  },
+  "o:media": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/145",
+      "o:id": 145
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/item_sets/194",
+      "o:id": 194
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/sites/1",
+      "o:id": 1
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "[Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute]",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2009632000"
+    },
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "https://www.loc.gov/item/2009632000/"
+    }
+  ],
+  "dcterms:created": [
+    {
+      "type": "literal",
+      "property_id": 20,
+      "property_label": "Date Created",
+      "is_public": true,
+      "@value": "1902-01-01"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Image"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "No known restrictions on publication."
+    }
+  ]
+}

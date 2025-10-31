@@ -1,0 +1,109 @@
+{
+  "@context": "http://jajohnst.si676.si.umich.edu/omeka-s/api-context",
+  "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/items/130",
+  "@type": [
+    "o:Item",
+    "dctype:Image"
+  ],
+  "o:id": 130,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/resource_classes/26",
+    "o:id": 26
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "Reading room for blind, Library of Congress, [Washington, D.C.]",
+  "thumbnail_display_urls": {
+    "large": "http://jajohnst.si676.si.umich.edu/omeka-s/files/large/51a7c0d9d9a962bb6a7d79cdd8be4098a955aeb9.jpg",
+    "medium": "http://jajohnst.si676.si.umich.edu/omeka-s/files/medium/51a7c0d9d9a962bb6a7d79cdd8be4098a955aeb9.jpg",
+    "square": "http://jajohnst.si676.si.umich.edu/omeka-s/files/square/51a7c0d9d9a962bb6a7d79cdd8be4098a955aeb9.jpg"
+  },
+  "o:created": {
+    "@value": "2025-10-30T21:31:48+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-10-30T21:42:51+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/139",
+    "o:id": 139
+  },
+  "o:media": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/139",
+      "o:id": 139
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/item_sets/194",
+      "o:id": 194
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/sites/1",
+      "o:id": 1
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Reading room for blind, Library of Congress, [Washington, D.C.]",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2016851550"
+    },
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "https://www.loc.gov/item/2016851550/"
+    }
+  ],
+  "dcterms:created": [
+    {
+      "type": "literal",
+      "property_id": 20,
+      "property_label": "Date Created",
+      "is_public": true,
+      "@value": "1920-01-01"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Image"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "@context": "http://jajohnst.si676.si.umich.edu/omeka-s/api-context",
+  "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/items/103",
+  "@type": [
+    "o:Item",
+    "dctype:Image"
+  ],
+  "o:id": 103,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/resource_classes/26",
+    "o:id": 26
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "Little Rock Public Library, Little Rock, Ark.",
+  "thumbnail_display_urls": {
+    "large": "http://jajohnst.si676.si.umich.edu/omeka-s/files/large/630b781b231ef1292fe885a2ca813fbea92223f4.jpg",
+    "medium": "http://jajohnst.si676.si.umich.edu/omeka-s/files/medium/630b781b231ef1292fe885a2ca813fbea92223f4.jpg",
+    "square": "http://jajohnst.si676.si.umich.edu/omeka-s/files/square/630b781b231ef1292fe885a2ca813fbea92223f4.jpg"
+  },
+  "o:created": {
+    "@value": "2025-10-30T21:31:42+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-10-30T21:42:51+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/114",
+    "o:id": 114
+  },
+  "o:media": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/114",
+      "o:id": 114
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/item_sets/194",
+      "o:id": 194
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/sites/1",
+      "o:id": 1
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Little Rock Public Library, Little Rock, Ark.",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2016815290"
+    },
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "https://www.loc.gov/item/2016815290/"
+    }
+  ],
+  "dcterms:created": [
+    {
+      "type": "literal",
+      "property_id": 20,
+      "property_label": "Date Created",
+      "is_public": true,
+      "@value": "1905-01-01"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Image"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "No known restrictions on publication."
+    }
+  ]
+}

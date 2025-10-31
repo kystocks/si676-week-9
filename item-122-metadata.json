@@ -1,0 +1,109 @@
+{
+  "@context": "http://jajohnst.si676.si.umich.edu/omeka-s/api-context",
+  "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/items/122",
+  "@type": [
+    "o:Item",
+    "dctype:Image"
+  ],
+  "o:id": 122,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/resource_classes/26",
+    "o:id": 26
+  },
+  "o:resource_template": null,
+  "o:thumbnail": null,
+  "o:title": "Public library building in the town of Antonito in Conejos County, Colorado, near the New Mexico border",
+  "thumbnail_display_urls": {
+    "large": "http://jajohnst.si676.si.umich.edu/omeka-s/files/large/69b8119f938f6b3f87b9a2cff5977df021e3d4d5.jpg",
+    "medium": "http://jajohnst.si676.si.umich.edu/omeka-s/files/medium/69b8119f938f6b3f87b9a2cff5977df021e3d4d5.jpg",
+    "square": "http://jajohnst.si676.si.umich.edu/omeka-s/files/square/69b8119f938f6b3f87b9a2cff5977df021e3d4d5.jpg"
+  },
+  "o:created": {
+    "@value": "2025-10-30T21:31:45+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2025-10-30T21:42:51+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:primary_media": {
+    "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/126",
+    "o:id": 126
+  },
+  "o:media": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/media/126",
+      "o:id": 126
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/item_sets/194",
+      "o:id": 194
+    }
+  ],
+  "o:site": [
+    {
+      "@id": "http://jajohnst.si676.si.umich.edu/omeka-s/api/sites/1",
+      "o:id": 1
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Public library building in the town of Antonito in Conejos County, Colorado, near the New Mexico border",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2017686535"
+    },
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "https://www.loc.gov/item/2017686535/"
+    }
+  ],
+  "dcterms:created": [
+    {
+      "type": "literal",
+      "property_id": 20,
+      "property_label": "Date Created",
+      "is_public": true,
+      "@value": "2015-01-01"
+    }
+  ],
+  "dcterms:type": [
+    {
+      "type": "literal",
+      "property_id": 8,
+      "property_label": "Type",
+      "is_public": true,
+      "@value": "Image"
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "literal",
+      "property_id": 15,
+      "property_label": "Rights",
+      "is_public": true,
+      "@value": "No known restrictions on publication."
+    }
+  ]
+}
